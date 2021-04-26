@@ -1,0 +1,27 @@
+
+     На дискете находятся два архива:
+
+     - MAP.ARC
+       файлы:
+       A3.SPR        │
+       LINGVA.MAS    │ -> построение карт
+       LINGVA.NAZ    │
+       MAP.EXE       │
+
+     - LINGVA.ARC
+       файлы:
+       LING.TXT     -
+       LINGVA.TXT   - словарь переменных
+       LINGVA.BET   - исходная матрица данных
+       LINGVA.DAT   - данные для работы в ДА
+       LINGVA.NAZ   │
+       LINGVA.SPR   │ - словарь переменных для работы в ДА
+       LINGVA.ANS   │
+
+
+     Установка на машину:
+
+     C:\> md lingva
+     C:\> cd lingva
+     C:\LINGVA> a:pkxarc a:map
+     C:\LINGVA> a:pkxarc a:lingva
