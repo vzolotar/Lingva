@@ -8,7 +8,7 @@ The description goes here.
 ##### Tools / Languages  
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
 
-#### Platform 
+##### Platform 
 <img height="20" src="https://img.shields.io/badge/MS DOS-000000?logo=dos&logoColor=white" /> 
 
 ##### Data Sources  
@@ -43,7 +43,7 @@ Description (Section 3)
 ```shell
 ls -l //-- - just an example 
 ```
-> ### @icon-info-circle Additional information
+> ### ℹ️ icon-info-circle Additional information
 > Note that .... (Additional information)
 
 ⚠  Important information. 
