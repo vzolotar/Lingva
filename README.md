@@ -1,6 +1,6 @@
 # Lingva
 
-### Description 
+### 📝 Description 
 The description goes here.
 
 -----
@@ -21,9 +21,9 @@ The description goes here.
 -----
 
 
-### Usage
+### ✔️ Usage
 
-### Section 1: Name
+### 1️⃣ Section 1: Name
 Description (Section 1)
 
 ```shell
@@ -31,14 +31,14 @@ ls -l //-- - just an example
 ```
 ![](https://github.com/vzolotar/README.md-template/blob/main/images/sample_image.jpg?raw=true) 
 
-### Section 2: Name
+### 2️⃣ Section 2: Name
 Description (Section 2)
 
 ```csharp
 var cobranca = new Cobranca(_chave: "bee05743-4291-4f3c-9259-595df1307ba1");
 ```
 
-### Section 3: Name
+### 3️⃣ Section 3: Name
 Description (Section 3)
 ```shell
 ls -l //-- - just an example 
