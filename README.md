@@ -12,8 +12,7 @@ The description goes here.
 <img height="20" src="https://img.shields.io/badge/MS DOS-000000?logo=dos&logoColor=white" /> System requirements: Windows x86 (Rus)
 
 ##### Data Sources  
-- [Kaggle](https://www.kaggle.com/) - an online community of data scientists and machine learning practitioners. Kaggle allows users to find and publish data sets.
-- [Mockaroo](https://www.mockaroo.com/) - a free test data generator and API mocking tool - Mockaroo lets you create custom CSV, JSON, SQL, and Excel datasets to test and demo your software.
+- The Atlas Lingüístico de la Península Ibérica [Linguistic Atlas of the Iberian Peninsula] (ALPI), Ramón Menéndez Pidal, 1962, [CSIC - Consejo Superior de Investigaciones Científicas](http://alpi.csic.es/en/)
 
 ##### Date:  
 1991-02
