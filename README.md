@@ -9,7 +9,7 @@ The description goes here.
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
 
 ##### Platform 
-<img height="20" src="https://img.shields.io/badge/MS DOS-000000?logo=dos&logoColor=white" /> 
+<img height="20" src="https://img.shields.io/badge/MS DOS-000000?logo=dos&logoColor=white" /> System requirements: Windows x86 (Rus)
 
 ##### Data Sources  
 - [Kaggle](https://www.kaggle.com/) - an online community of data scientists and machine learning practitioners. Kaggle allows users to find and publish data sets.
