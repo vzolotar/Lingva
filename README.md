@@ -38,7 +38,7 @@ To return to the main MENU please press Esc
 	5. Contingency table
 	6. Full Map review and Linear distribution
 	
-	7. Map review with selected charecterists 
+	7. Map review with selected characteristics 
 	8. Review list of Maps
 	9. Map Database Administration
 
