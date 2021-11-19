@@ -1,7 +1,7 @@
 # Lingva
 
 ### 📝 Description 
-The description goes here.
+The project presents a proof of concept of implementation consisting the Computer Atlas of the Iberian Peninsula including the following elements: the dimensional database of geographical maps and the analytical engine - Lingva. The purpose of the project to demonstrate how linguistic maps can be compared, combined forming the new maps to present the similarities and differences between the areas in research. The application also provides the statistics related to the maps and comparisons. 
 
 -----
 
