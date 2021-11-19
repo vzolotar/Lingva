@@ -69,14 +69,20 @@ Description: Z at the end of a word
 ![](https://github.com/vzolotar/Lingva/blob/master/images/lin_distr.JPG?raw=true) 
 
 
+### 3️⃣ Create new Maps - Combine
+Description (Section 2)
 
+````markdown
+  Create new Maps - Combine
+  ==========================
 
-### 3️⃣ Section 3: Name
-Description (Section 3)
-```shell
-ls -l //-- - just an example 
-```
-> ### ℹ️ icon-info-circle Additional information
-> Note that .... (Additional information)
+Project Name: Linguistic Geography: Spain and Portugal 
+Number of fields on the map: 6117
 
-⚠  Important information. 
+Ender IDs of the Maps you want to combine: 9 19/
+* 9* Country
+* 19* AGUJA
+
+Next available Map ID is: 26
+Enter the the new Mao ID numner: 26/
+````
