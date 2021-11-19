@@ -86,3 +86,25 @@ Ender IDs of the Maps you want to combine: 9 19/
 Next available Map ID is: 26
 Enter the the new Map ID numner: 26/
 ````
+
+
+### 3️⃣ Contingency table
+Description (Section 2)
+
+````markdown
+  Contingency table
+  ==========================
+
+Project Name: Linguistic Geography: Spain and Portugal 
+Number of fields on the map: 6117
+
+Ender IDs of the Maps you want to use: 10 11/
+* 10* Z at the end of a word
+* 11* S at the end of a word
+
+First map includes characteristics from 0 through 6 (total 7)
+Second map includes characteristics from 0 through 4 (total 5)
+
+Next available Map ID is: 26
+Enter the the new Map ID numner: 26/
+````
