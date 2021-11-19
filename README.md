@@ -90,30 +90,7 @@ Enter the the new Map ID numner: 26/
 ````
 
 
-### 4️⃣ Contingency table
-Description (Section 2)
-
-````markdown
-  =======================================
-  Contingency table
-  =======================================
-
-Project Name: Linguistic Geography: Spain and Portugal 
-Number of fields on the map: 6117
-
-Ender IDs of the Maps you want to use: 10 11/
-* 10* Z at the end of a word
-* 11* S at the end of a word
-
-First map includes characteristics from 0 through 6 (total 7)
-Second map includes characteristics from 0 through 4 (total 5)
-
-Next available Map ID is: 26
-Enter the the new Map ID numner: 26/
-```` 
-<img src="https://github.com/vzolotar/Lingva/blob/master/images/Contingency.JPG" width="230" height="230">
-
-### 5️⃣ Full Map review and Linear distribution
+### 4️⃣ Full Map review and Linear distribution
 Review a map (stored in the database or any new / combined maps) and the corresponding linear distribution. Since a map does not actually fit into the DOS window the program reviews the map in eight parts. The example below represents the combined version of the map. 
 
 ````markdown
