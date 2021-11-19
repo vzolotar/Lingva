@@ -114,7 +114,7 @@ Enter the the new Map ID numner: 26/
 <img src="https://github.com/vzolotar/Lingva/blob/master/images/Contingency.JPG" width="230" height="230">
 
 ### 5️⃣ Full Map review and Linear distribution
-Description (Section 2)
+Review a map (stored in the database or any new / combined maps) and the corresponding linear distribution. Since a map does not actually fit into the DOS window the program reviews the map in eight parts. The example below represents the combined version of the map. 
 
 ````markdown
   =======================================
