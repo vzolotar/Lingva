@@ -128,3 +128,4 @@ Number of fields on the map: 6117
 Ender Map ID: 16/
 ```` 
 <img src="https://github.com/vzolotar/Lingva/blob/master/images/Spain_Portugal_map.jpg" width="650" height="500">
+<img src="https://github.com/vzolotar/Lingva/blob/master/images/Spain_Portugal_disr.jpg" width="400" height="200">
