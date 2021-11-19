@@ -1,3 +1,19 @@
+# Lingva
+
+### 📝 Description 
+The description goes here.
+
+-----
+
+##### Tools / Languages  
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+
+##### Platform 
+<img height="20" src="https://img.shields.io/badge/MS DOS-000000?logo=dos&logoColor=white" /> System requirements: Windows x86 (Rus)
+
+##### Data Sources  
+- The Atlas Lingüístico de la Península Ibérica [Linguistic Atlas of the Iberian Peninsula] (ALPI), Ramón Menéndez Pidal, 1962, [CSIC - Consejo Superior de Investigaciones Científicas](http://alpi.csic.es/en/)
+
 ##### Date:  
 1991-02
 
@@ -28,6 +44,7 @@ To return to the main MENU please press Esc
 	10. Exit
 	
 	Please select:
+````Please select:
 ````
 
 Description (Section 1)
