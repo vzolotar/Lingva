@@ -9,7 +9,7 @@ The description goes here.
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
 
 ##### Platform 
-<img height="20" src="https://img.shields.io/badge/MS DOS-000000?logo=dos&logoColor=white" /> System requirements: Windows x86 (Rus)
+<img height="20" src="https://img.shields.io/badge/MS DOS-000000?logo=dos&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" /> System requirements: Windows x86 (Rus)
 
 ##### Data Sources  
 - The Atlas Lingüístico de la Península Ibérica [Linguistic Atlas of the Iberian Peninsula] (ALPI), Ramón Menéndez Pidal, 1962, [CSIC - Consejo Superior de Investigaciones Científicas](http://alpi.csic.es/en/)
@@ -44,7 +44,6 @@ To return to the main MENU please press Esc
 	10. Exit
 	
 	Please select:
-````Please select:
 ````
 
 Description (Section 1)
@@ -69,10 +68,6 @@ Description: Z at the end of a word
 ````
 ![](https://github.com/vzolotar/Lingva/blob/master/images/lin_distr.JPG?raw=true) 
 
-
-```csharp
-var cobranca = new Cobranca(_chave: "bee05743-4291-4f3c-9259-595df1307ba1");
-```
 
 
 
