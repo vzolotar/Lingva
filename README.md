@@ -19,6 +19,7 @@ The description goes here.
 
 -----
 
+<img src="https://github.com/vzolotar/Lingva/blob/master/images/Lingva_diagram.JPG" >
 
 ### ✔️ Usage
 
