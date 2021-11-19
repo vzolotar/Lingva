@@ -91,7 +91,7 @@ Enter the the new Map ID numner: 26/
 ````
 
 
-### 3️⃣ Contingency table
+### 4️⃣ Contingency table
 Description (Section 2)
 
 ````markdown
@@ -114,7 +114,7 @@ Enter the the new Map ID numner: 26/
 ```` 
 <img src="https://github.com/vzolotar/Lingva/blob/master/images/Contingency.JPG" width="230" height="230">
 
-### 3️⃣ Full Map review and Linear distribution
+### 5️⃣ Full Map review and Linear distribution
 Description (Section 2)
 
 ````markdown
