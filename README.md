@@ -54,8 +54,9 @@ Description (Section 1)
 Description (Section 2)
 
 ````markdown
+  =======================================
   Linear distribution - Maps
-  ==========================
+  =======================================
 
 Project Name: Linguistic Geography: Spain and Portugal 
 Number of fields on the map: 6117
@@ -74,8 +75,9 @@ Description: Z at the end of a word
 Description (Section 2)
 
 ````markdown
+  =======================================
   Create new Maps - Combine
-  ==========================
+  =======================================
 
 Project Name: Linguistic Geography: Spain and Portugal 
 Number of fields on the map: 6117
@@ -93,8 +95,9 @@ Enter the the new Map ID numner: 26/
 Description (Section 2)
 
 ````markdown
+  =======================================
   Contingency table
-  ==========================
+  =======================================
 
 Project Name: Linguistic Geography: Spain and Portugal 
 Number of fields on the map: 6117
@@ -110,3 +113,18 @@ Next available Map ID is: 26
 Enter the the new Map ID numner: 26/
 ```` 
 <img src="https://github.com/vzolotar/Lingva/blob/master/images/Contingency.JPG" width="230" height="230">
+
+### 3️⃣ Full Map review and Linear distribution
+Description (Section 2)
+
+````markdown
+  =======================================
+  Full Map review and Linear distribution
+  =======================================
+
+Project Name: Linguistic Geography: Spain and Portugal 
+Number of fields on the map: 6117
+
+Ender Map ID: 16/
+```` 
+<img src="https://github.com/vzolotar/Lingva/blob/master/images/Spain_Portugal_map.jpg" width="650" height="500">
