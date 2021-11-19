@@ -61,7 +61,7 @@ Description (Section 2)
 Project Name: Linguistic Geography: Spain and Portugal 
 Number of fields on the map: 6117
 
-Enter Map ID: 10/
+Ender Map ID: 10/
 
 Map Id: 10
 ====================================
@@ -72,7 +72,7 @@ Description: Z at the end of a word
 <img src="https://github.com/vzolotar/Lingva/blob/master/images/lin_distr.JPG" width="600" height="100">
 
 ### 3️⃣ Create new Maps - Combine
-Description (Section 2)
+This feature allows to combine and compare two or more maps and save the results as a new map. In the example below we are combining the political map  of the Iberian Peninsula (9) and the linguistic map  - the variations of "Aguja" (19).  We save the new map and assign ID 26 to the new map.  
 
 ````markdown
   =======================================
