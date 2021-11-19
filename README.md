@@ -108,3 +108,4 @@ Second map includes characteristics from 0 through 4 (total 5)
 Next available Map ID is: 26
 Enter the the new Map ID numner: 26/
 ````
+![](https://github.com/vzolotar/Lingva/blob/master/images/Contingency.JPG?raw=true) 
