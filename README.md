@@ -22,7 +22,31 @@ The description goes here.
 
 ### ✔️ Usage
 
-### 1️⃣ Section 1: Name
+### 1️⃣ Main Menu
+(transalated)
+````markdown
+To return to the main MENU please press Esc
+
+			MENU
+
+	1. Review Map IDs and descriptions 
+	2. Linear distribution - Maps
+	3. Secondary Variable - Function 
+	
+	4. Create new Maps - Combine
+	5. Contingency table
+	6. Full Map review and Linear distribution
+	
+	7. Map review with selected charecterists 
+	8. Review list of Maps
+	9. Map Database Administration
+
+	10. Exit
+	
+	Please select:
+
+````
+
 Description (Section 1)
 
 ```shell
