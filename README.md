@@ -47,12 +47,10 @@ To return to the main MENU please press Esc
 	Please select:
 ````
 
-Description (Section 1)
-
 
 
 ### 2️⃣ Linear distribution - Maps
-Description (Section 2)
+Provides the Linear distribution of the characteristics included in a map. Example below: Map of pronunciation variations: Z at the end of a word (1 - normative, 2 - extra-short, 3 - palatalized, 4 - excluded, 5 - aspirated, 6 - S-like)
 
 ````markdown
   =======================================
