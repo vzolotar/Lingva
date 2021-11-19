@@ -61,7 +61,7 @@ Description (Section 2)
 Project Name: Linguistic Geography: Spain and Portugal 
 Number of fields on the map: 6117
 
-Ender Map ID: 10/
+Enter Map ID: 10/
 
 Map Id: 10
 ====================================
