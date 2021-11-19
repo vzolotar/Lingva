@@ -84,5 +84,5 @@ Ender IDs of the Maps you want to combine: 9 19/
 * 19* AGUJA
 
 Next available Map ID is: 26
-Enter the the new Mao ID numner: 26/
+Enter the the new Map ID numner: 26/
 ````
