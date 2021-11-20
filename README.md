@@ -71,7 +71,7 @@ Description: Z at the end of a word
 <img src="https://github.com/vzolotar/Lingva/blob/master/images/lin_distr.JPG" width="600" height="100">
 
 ### 3️⃣ Create new Maps - Combine
-This feature allows to combine and compare two or more maps and save the results as a new map. In the example below we are combining the political map  of the Iberian Peninsula (9) and the linguistic map  - the variations of "Aguja" (19).  We save the new map and assign ID 26 to the new map.  
+This feature allows to combine and compare two or more maps and save the results as a new map. In the example below we are combining the maps of pronunciation: 21 - "La O de Boca" and 14 - "L at the end of a word".  We save the new map and assign ID 23 to the new map.  
 
 ````markdown
   =======================================
@@ -81,13 +81,14 @@ This feature allows to combine and compare two or more maps and save the results
 Project Name: Linguistic Geography: Spain and Portugal 
 Number of fields on the map: 6117
 
-Ender IDs of the Maps you want to combine: 9 19/
-* 9* Country
-* 19* AGUJA
+Ender IDs of the Maps you want to combine: 21 14/
+* 21* La O de Boca
+* 14* L at the end of a word
 
-Next available Map ID is: 26
-Enter the the new Map ID numner: 26/
+Next available Map ID is: 23
+Enter the new Map ID numner: 23/
 ````
+
 
 
 ### 4️⃣ Full Map review and Linear distribution
