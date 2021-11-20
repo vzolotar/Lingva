@@ -88,8 +88,9 @@ Ender IDs of the Maps you want to combine: 21 14/
 Next available Map ID is: 23
 Enter the new Map ID numner: 23/
 ````
+Here is the comparison of the maps (manually painted) to better illustrate the results of map compare. The maps bellow represent a part of the Iberian Peninsula: first map on the left – map 21, second on the right – map 14 and the last map in the center is the map of comparison (21 and 14) 
 
-
+<img src="https://github.com/vzolotar/Lingva/blob/master/images/compare_col.JPG" width="400" height="250">
 
 ### 4️⃣ Full Map review and Linear distribution
 Review a map (stored in the database or any new / combined maps) and the corresponding linear distribution. Since a map does not actually fit into the DOS window the program reviews the map in eight parts. The example below represents the combined version of the map. 
