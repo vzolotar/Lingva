@@ -14,9 +14,6 @@ The project presents a proof of concept of implementation consisting the Compute
 ##### Data Sources  
 - The Atlas Lingüístico de la Península Ibérica [Linguistic Atlas of the Iberian Peninsula] (ALPI), Ramón Menéndez Pidal, 1962, [CSIC - Consejo Superior de Investigaciones Científicas](http://alpi.csic.es/en/)
 
-##### Date:  
-1991-02
-
 -----
 
 <img src="https://github.com/vzolotar/Lingva/blob/master/images/Lingva_diagram.JPG" >
