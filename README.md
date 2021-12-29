@@ -1,7 +1,7 @@
 # Lingva
 
 ### 📝 Description 
-The project presents a proof of concept of implementation consisting the Computer Atlas of the Iberian Peninsula including the following elements: the dimensional database of geographical maps and the analytical engine - Lingva. The purpose of the project to demonstrate how linguistic maps can be compared, combined forming the new maps to present the similarities and differences between the areas in research. The application also provides the statistics related to the maps and comparisons. In this project the maps of the the Iberian Peninsula presented as a combination of 6117 fields or points on the map. Each field has a unique address which is used to map and compare the same regions from different maps. 
+The project presents a proof of concept of implementation consisting the Computer Atlas of the Iberian Peninsula including the following elements: the dimensional database of geographical maps and the analytical engine - Lingva. The purpose of the project to demonstrate how linguistic maps can be compared, combined forming the new maps to present the similarities and differences between the areas in research. The application also provides the statistics related to the maps and comparisons. In this project the maps of the  Iberian Peninsula presented as a combination of 6117 fields or points on the map. Each field has a unique address which is used to map and compare the same regions from different maps. 
 
 -----
 
